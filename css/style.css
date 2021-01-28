@@ -365,8 +365,16 @@ footer .pods #iroon .poods, footer .pods #iroon .pood:hover{
     width: 100%;
   }
 
+  #services .siza {
+    margin-top: 25px;
+    max-width: 50%;
+    display: flex;
+    justify-content: center;
+  }
+
   #services .siza .icon-box{
-    max-width:50%;
+    max-height: 100%;
+    max-width: 100%;
   }
 
 }
@@ -398,6 +406,7 @@ footer .pods #iroon .poods, footer .pods #iroon .pood:hover{
   .pe{
     width: 100%;
   }
+
 
 }
 
